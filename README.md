@@ -5,6 +5,7 @@ This repository contains assets you can use when creating Green Web Foundation p
 This includes things like:
 
 - logos in public communications and marketing collateral;
+- presentations or other documents that refer to our work;
 - any service that makes use of the open-source tools, guidance and content we provide for the public good - [more on attribution](https://www.thegreenwebfoundation.org/how-to-cite-our-work/);
 - within the open source tools and software we provide for the public good.
 
