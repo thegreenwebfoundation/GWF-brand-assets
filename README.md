@@ -5,16 +5,16 @@ This repository contains assets you can use when creating Green Web Foundation p
 This includes things like:
 
 - logos in public communications and marketing collateral;
-- any service that makes use of the open-source tools guidance and content we provide for the public good - [more on attribution](https://www.thegreenwebfoundation.org/how-to-cite-our-work/);
+- any service that makes use of the open-source tools, guidance and content we provide for the public good - [more on attribution](https://www.thegreenwebfoundation.org/how-to-cite-our-work/);
 - within the open source tools and software we provide for the public good.
 
 ## Who can use these assets and how?
 
-Open source is a strong ethos running through everything we do at Green Web Foundation. We believe in building a world that trusts people and makes it easy for them to operate.
+Open source is a strong ethos running through everything we do at Green Web Foundation. We believe in the power of open to create a just and sustainable internet for all.
 
-Therefore, you do not need to gain our explicit permission to use these logos when speaking about our organisation, our mission, our tools or a collaboration between us and your organisations.
+Therefore, you do not need to gain our explicit permission to use these brand assets when speaking about our organisation, our mission, our tools or a collaboration between us and your organisation.
 
-We do ask that when you use them, you link to our main website when feasible to do so: https://thegreenwebfoundation.org, or other relevant tool that we operate. This helps a great deal.
+We do ask that when you use these brand assets, you link to our main website when feasible to do so: https://thegreenwebfoundation.org, or other relevant tool that we operate. This helps a great deal.
 
 We have more information on how you can [cite our open source work on our website](https://www.thegreenwebfoundation.org/how-to-cite-our-work/). This covers our tools, Green Web Dataset and other content we make freely available to create a just and sustainable internet for all.
 
