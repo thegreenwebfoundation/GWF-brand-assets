@@ -17,11 +17,20 @@ Therefore, you do not need to gain our explicit permission to use these logos wh
 
 We do ask that when you use them, you link to our main website when feasible to do so: https://thegreenwebfoundation.org, or other relevant tool that we operate. This helps a great deal.
 
-If you cannot find the resolution or logo you need, please contact our <a href="https://theegreenwebfoundation.org/support-form">support desk</a>, and we'll be happy to help.
+If you cannot find something in particular or want to chat about your use of our branding, please contact our <a href="https://theegreenwebfoundation.org/support-form">support desk</a>, and we'll be happy to help.
+
+## Where can I get the assets?
+
+### Logos
+
+Our logos are available in our [Logos](/Logos) folder. Here you will find .png and .svg formats.
+
+### Icons
+
+Our green sunburst icon is in our [Icons](/Icons) folder. Here you will find .png and .svg formats.
 
 
-
-### Typefaces we use
+### Fonts
 
 #### For heading and copy text
 
@@ -33,6 +42,10 @@ It is designed by [Nolan Paparelli](https://www.nolan-paparelli.ch/) who describ
 
 The font can be licenses for use at [WeltKern](https://www.weltkern.com/shop/typefaces).
 
-#### System alterative
+#### System alternative
 
 The nearest system alternative font is Archivo. This is freely available for use on Google Fonts. [Archivo on Google Fonts](https://fonts.google.com/specimen/Archivo).
+
+### Brandbook and further guidance
+
+Please get in touch if you are collaborating on a project with us and require further brand guidance. We have a lovely brandbook created by [Ellery Studio](https://www.ellerystudio.com/) who created our modern, sunburst brand that you see reflected in our logo. <a href="https://theegreenwebfoundation.org/support-form">Our support desk</a>.
