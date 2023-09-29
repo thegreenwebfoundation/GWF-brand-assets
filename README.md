@@ -4,10 +4,9 @@ This repository contains assets you can use when creating Green Web Foundation p
 
 This includes things like:
 
-- logos in public communications and marketing collateral
-- our own software
-- any service that use the Green Web Foundation products and services themselves.
-- our browser extensions
+- logos in public communications and marketing collateral;
+- any service that makes use of the open-source tools guidance and content we provide for the public good - [more on attribution](https://www.thegreenwebfoundation.org/how-to-cite-our-work/);
+- within the open source tools and software we provide for the public good.
 
 ## Who can use these assets and how?
 
@@ -17,7 +16,9 @@ Therefore, you do not need to gain our explicit permission to use these logos wh
 
 We do ask that when you use them, you link to our main website when feasible to do so: https://thegreenwebfoundation.org, or other relevant tool that we operate. This helps a great deal.
 
-If you cannot find something in particular or want to chat about your use of our branding, please contact our <a href="https://theegreenwebfoundation.org/support-form">support desk</a>, and we'll be happy to help.
+We have more information on how you can [cite our open source work on our website](https://www.thegreenwebfoundation.org/how-to-cite-our-work/). This covers our tools, Green Web Dataset and other content we make freely available to create a just and sustainable internet for all.
+
+If you cannot find something in particular or want to chat about your use of our branding or our work, please contact our <a href="https://theegreenwebfoundation.org/support-form">support desk</a>, and we'll be happy to help.
 
 ## Where can I get the assets?
 
