@@ -42,7 +42,7 @@ It is designed by [Nolan Paparelli](https://www.nolan-paparelli.ch/) who describ
 
 > Everett is a contemporary neo-grotesque typeface known for its characteristic sharpness. The font’s design is balanced with an organic drawing and a particular digital flavor. Strong typographic cuts add a high tension while still keeping a natural reading comfort, finding the right balance between a font that is graphic yet fluid.
 
-The font can be licenses for use at [WeltKern](https://www.weltkern.com/shop/typefaces).
+The font can be licensed for use at [WeltKern](https://www.weltkern.com/shop/typefaces).
 
 #### System alternative
 
